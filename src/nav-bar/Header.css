@@ -16,13 +16,6 @@
     min-height: 10vh;
 }
 
-.header-nav-container {
-    gap: 4vh;
-}
 .collapse-theme {
     border: #FFFFFF;
-}
-
-.navbar.scrolling-navbar.top-nav-collapse {
-    background: #ff0000;
 }
