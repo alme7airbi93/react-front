@@ -1,11 +1,14 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import {Header} from "./nav-bar/Header";
+import {Container} from "react-bootstrap";
+import {Intro} from "./intro/Intro";
 
 function App() {
   return (
-    <div className="App">
-      Hello test
-    </div>
+    <Container fluid={true} className="App" >
+            <Header/>
+            <Intro/>
+    </Container>
   );
 }
 

@@ -1,0 +1,28 @@
+.header-nav{
+    margin-top: 4vh;
+    padding: 5vh 1vh 3vh;
+    max-height: 5vh;
+}
+
+.header-icon{
+    margin-left: 10vh;
+}
+.nav-text{
+    color: aliceblue;
+    font-family: 'Arial', serif;
+}
+.header-container{
+    padding: 0;
+    min-height: 10vh;
+}
+
+.header-nav-container {
+    gap: 4vh;
+}
+.collapse-theme {
+    border: #FFFFFF;
+}
+
+.navbar.scrolling-navbar.top-nav-collapse {
+    background: #ff0000;
+}
