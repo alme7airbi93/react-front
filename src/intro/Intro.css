@@ -16,27 +16,26 @@
     position: absolute;
 }
 
-.container-text{
-    max-width: 100%;
+.btn-image {
+    cursor: pointer;
+    max-width: 10%;
     top: 0;
     left: 0;
-    margin-top: 8%;
+    margin-top: 30%;
     margin-left: 10%;
     position: absolute;
 }
 
-.container-ul{
-    display: inline-block;
-    list-style: none;
-}
-
 .container-text-first{
-    width: 384px;
-    height: 29px;
+    top: 0;
+    left: 0;
+    margin-top: 7%;
+    margin-left: 10%;
+    position: absolute;
     font-family: 'OPTIBankGothic', sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 1.5vw;
+    font-size: 3vw;
     line-height: 29px;
     /* identical to box height */
     letter-spacing: 0.14em;
@@ -45,8 +44,11 @@
 }
 
 .container-text-second{
-    width: 520px;
-    height: 170px;
+    top: 0;
+    left: 0;
+    margin-top:9%;
+    margin-left: 13%;
+    position: absolute;
     font-family: 'OPTIBankGothic', sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -58,8 +60,11 @@
 }
 
 .container-text-third{
-    width: 520px;
-    height: 170px;
+    top: 0;
+    left: 0;
+    margin-top: 13%;
+    margin-left: 10%;
+    position: absolute;
     font-family: 'OPTIBankGothic', sans-serif;
     font-style: normal;
     font-weight: 500;
