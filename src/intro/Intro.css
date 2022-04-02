@@ -12,6 +12,66 @@
     top: 0;
     right: 0;
     margin-top: 20%;
-    margin-right: 20%;
+    margin-right: 21%;
     position: absolute;
 }
+
+.container-text{
+    max-width: 100%;
+    top: 0;
+    left: 0;
+    margin-top: 8%;
+    margin-left: 10%;
+    position: absolute;
+}
+
+.container-ul{
+    display: inline-block;
+    list-style: none;
+}
+
+.container-text-first{
+    width: 384px;
+    height: 29px;
+    font-family: 'OPTIBankGothic', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5vw;
+    line-height: 29px;
+    /* identical to box height */
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.container-text-second{
+    width: 520px;
+    height: 170px;
+    font-family: 'OPTIBankGothic', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3vw;
+    line-height: 85px;
+    /* or 118% */
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.container-text-third{
+    width: 520px;
+    height: 170px;
+    font-family: 'OPTIBankGothic', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 4vw;
+    line-height: 85px;
+    /* or 118% */
+    text-transform: uppercase;
+    color: #30FAF7;
+}
+
+.logo {
+    width: 100vh;
+    height: 100vh;
+}
+
