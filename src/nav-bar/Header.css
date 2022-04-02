@@ -3,8 +3,13 @@
     padding: 5vh 1vh 3vh;
     max-height: 5vh;
 }
+.header-brand{
+    position: relative;
+    width: 10vh;
+}
 
 .header-icon{
+    position: absolute;
     margin-left: 10vh;
 }
 .nav-text{

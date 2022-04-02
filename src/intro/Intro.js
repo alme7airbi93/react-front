@@ -13,19 +13,17 @@ export const Intro = () => {
                 <div className="logo-image">
                     <img className="img-fluid logo" src={Logo} alt={""}/>
                 </div>
-
-                <span className="container-text-first ">
+                    <span className="container-text-first ">
                                 WE BRING TECHNOLOGY
                             </span>
 
-                <span className="container-text-second">
+                    <span className="container-text-second">
                             TO YOUR
                             </span>
 
-                <span className="container-text-third ">
+                    <span className="container-text-third ">
                             FINGERTIPS
                             </span>
-
                 <div className="btn-image">
                     <img className="img-fluid logo" src={button} alt={""}/>
                 </div>

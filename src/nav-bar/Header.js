@@ -6,8 +6,8 @@ export const Header = () => {
     return (
             <Container fluid={true} className="header-container">
             <Navbar collapseOnSelect expand="lg" className="header-nav navbar-dark" fixed="top">
-                <Container className="header-nav-container" fluid>
-                    <Navbar.Brand><img className="header-icon" alt="This is company logo" src={logo}/></Navbar.Brand>
+                <Container fluid={true}>
+                        <Navbar.Brand><img className="header-icon img-fluid " alt="This is company logo" src={logo}/></Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
                     <Container >
                         <Navbar.Collapse id="responsive-navbar-nav"  className="header-container justify-content-end">
