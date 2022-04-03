@@ -1,0 +1,61 @@
+.serve-img{
+    width: 33.3%;
+}
+
+.serve-back-img{
+    display: flex;
+}
+
+.serve-img{
+    width: 100%;
+}
+
+.col{
+    width: 33.3%;
+}
+
+.middle{
+    position: relative;
+}
+
+.serve-text {
+    position: absolute;
+    top: 25%;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    left: 15%;
+    text-align: center;
+    width: 70%;
+}
+
+.serve-title{
+    font-size: 2vw;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #2EFAF6;
+}
+
+.serve-context{
+    font-size: 1.1vw;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+.content-title{
+    margin-top: 150px;
+}
+
+.content{
+    text-align: center;
+}
+
+.link{
+    position: relative;
+}
+
+.link-hover{
+    position: absolute;
+    left: 45%;
+    top: -40%;
+}
